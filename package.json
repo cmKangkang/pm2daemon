@@ -1,0 +1,19 @@
+{
+  "name": "pm2deamon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-body": "^6.0.1",
+    "koa-combine-routers": "^4.0.2",
+    "koa-router": "^12.0.0",
+    "pino": "^8.11.0",
+    "pm2": "^5.2.2",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.13.5",
+    "@types/koa-router": "^7.4.4"
+  }
+}
